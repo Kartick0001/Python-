@@ -1,5 +1,3 @@
-# Python
-## Some demo work as beginner :
 # Check the divisibilty
 # code :
 print("Put your number below , I will check if it divisible by 3 or 5 or both 3 and 5")
